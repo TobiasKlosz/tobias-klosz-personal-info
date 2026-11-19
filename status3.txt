@@ -1,0 +1,6 @@
+git commit -m "new html site added"
+[main 1994d1c] new html site added
+ 1 file changed, 18 insertions(+)
+ create mode 100644 index.html
+
+ the command tells me that i added one new file and how many insertions i made.

@@ -1,0 +1,5 @@
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   status1.txt
+
+that tells me that there is one file that i added which is ready to commit.

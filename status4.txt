@@ -1,0 +1,11 @@
+git push         
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 20 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 707 bytes | 707.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/TobiasKlosz/tobias-klosz-personal-info.git
+   a9f1c62..1994d1c  main -> main
+
+Git tells me how many objects i pushed how big those compressed where and on what branch i pushed.
